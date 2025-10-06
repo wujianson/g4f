@@ -1,4 +1,4 @@
-###gpt4free from github
+###gpt4free from github###
 **the simple chatbox**
 
 
@@ -6,7 +6,7 @@
 <!-- DIRECTORY_TREE_START -->
 
 **仓库目录结构：**
-```
+
 /
 ├── 📁 gf4chat/ #对话记录
 │   ├── 📋 session_20251006_213400.json
@@ -20,7 +20,6 @@
 ├── 🐍 g4fchat.py #主对话文件
 ├── 📄 LICENSE
 └── 📖 README.md
-```
 
 <!-- DIRECTORY_TREE_END -->
 **安装说明**
